@@ -2,7 +2,6 @@
 
 Stream custom messages over your video in Google Meet (and other browser-based services)
 
+![Logo](./images/logo.png)
 
-```
-$ zip -r chrome-message-streamer.zip src
-```
+![Screenshot](./images/screenshot.png)
